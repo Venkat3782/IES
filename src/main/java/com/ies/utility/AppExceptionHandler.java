@@ -1,0 +1,5 @@
+package com.ies.utility;
+
+public class AppExceptionHandler {
+
+}
